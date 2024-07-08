@@ -1,0 +1,15 @@
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\bin\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.exe.config
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\bin\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.exe
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\bin\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.pdb
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.csproj.AssemblyReference.cache
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.csproj.SuggestedBindingRedirects.cache
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\_89_LTW_Nguyen_Ha_Duc_Khanh_2051063976_62PM1.Form1.resources
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\_89_LTW_Nguyen_Ha_Duc_Khanh_2051063976_62PM1.Properties.Resources.resources
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.csproj.GenerateResource.cache
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.csproj.CoreCompileInputs.cache
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.exe
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.pdb
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\bin\Debug\Newtonsoft.Json.dll
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\bin\Debug\Newtonsoft.Json.xml
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1.csproj.CopyComplete
+D:\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\89_LTW_Nguyen Ha Duc Khanh_2051063976_62PM1\obj\Debug\_89_LTW_Nguyen_Ha_Duc_Khanh_2051063976_62PM1.Form2.resources
